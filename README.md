@@ -1,2 +1,2 @@
 # rock-paper-scissors
-The Odin Project Coding With Rob
+Rock Paper Scissors using Prompt
